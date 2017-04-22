@@ -2,4 +2,4 @@ This repository contains the shared objects of the [SCIP optimization suite](htt
 
 The repository is used for research purposes only.
 
-For anyone who wants to download and uses the content in this repository, please take at SCIP's [license](http://scip.zib.de/#license).
+For anyone who wants to download and use the content in this repository, please take at SCIP's [license](http://scip.zib.de/#license).
